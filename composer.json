@@ -1,4 +1,5 @@
 {
     "name": "larar_0804_p_re/larar_0804_p_re",
-    "require": {}
+    "require": {"nesbot/carbon": "^2.39.0"
+    }
 }
